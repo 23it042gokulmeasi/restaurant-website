@@ -5,4 +5,5 @@
 
 👉🏻 [Demo](https://yaninatrekhleb.github.io/restaurant-website/)
 
-![Demo](img/demo.gif)
+
+![demo-0000](https://github.com/user-attachments/assets/08d15388-31cb-40a3-b42b-21b4c5a1907e)
